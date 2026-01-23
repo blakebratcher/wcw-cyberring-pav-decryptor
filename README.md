@@ -134,6 +134,15 @@ UlPlayer.exe        Original ULI Player application
 | Promos & merch | 9 | Wrestler merchandise spots |
 | Other | 17 | Nitro Girls, Nasty Boys matches, misc |
 
+## Recovered Content
+
+The recovered videos are available on the Internet Archive:
+
+**https://archive.org/details/wcw-cyberring-powerdisk-1999**
+
+All 61 clips, converted to H.264/AAC MP4 for modern playback. Original content
+produced by WCW/Turner Broadcasting (IP now held by WWE).
+
 ## Broader Applicability
 
 This tool works on **any PAVENCRYPT-format file**, not just this disc. ULI Player was
