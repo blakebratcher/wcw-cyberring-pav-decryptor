@@ -8,6 +8,7 @@ installer_extracted/
 
 # Claude Code internals
 .claude/
+CLAUDE.md
 
 # Windows
 Thumbs.db
